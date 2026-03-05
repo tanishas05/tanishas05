@@ -61,7 +61,9 @@ I enjoy building interactive web applications and strengthening my problem-solvi
 
 # 📈 Profile Views
 
-![](https://visitcount.itsvg.in/api?id=tanishas05&icon=0&color=6)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tanishas05&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p>
 
 ---
 
