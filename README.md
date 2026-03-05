@@ -1,29 +1,53 @@
+<div align="center">
+
 # Hi 👋 I'm Tanisha Sharma
 
-💻 **Aspiring Software Developer** | Web Development | Data Structures & Algorithms  
+### Aspiring Software Developer | Web Development | Data Structures & Algorithms
 
 I enjoy building interactive web applications and strengthening my problem-solving skills through DSA and competitive programming.
 
----
-
-## 🚀 About Me
-
-- 🔭 Currently working on **Web Development projects and DSA**
-- 🌱 Currently learning **DSA and MERN Stack**
-- 💡 Interested in **Full Stack Development and Competitive Programming**
-- 📫 Reach me at **officialtanisha20@gmail.com**
+</div>
 
 ---
 
-## 🌐 Connect With Me
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanishas05)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanishas05)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:officialtanisha20@gmail.com)
+## About Me
+
+</div>
+
+- Currently working on **Web Development projects and DSA**
+- Currently learning **DSA and MERN Stack**
+- Interested in **Full Stack Development and Competitive Programming**
+- Reach me at **officialtanisha20@gmail.com**
 
 ---
 
-# 💻 Tech Stack
+<div align="center">
+
+## Connect With Me
+
+</div>
+
+<p align="center">
+<a href="https://linkedin.com/in/tanishas05">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+</a>
+<a href="https://instagram.com/tanishas05">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
+</a>
+<a href="mailto:officialtanisha20@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
+</a>
+</p>
+
+---
+
+<div align="center">
+
+## Tech Stack
+
+</div>
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
@@ -43,30 +67,48 @@ I enjoy building interactive web applications and strengthening my problem-solvi
 
 ---
 
-# 📊 GitHub Stats
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=tanishas05&theme=tokyonight&show_icons=true)
+## GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=tanishas05&theme=tokyonight)
+</div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishas05&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=tanishas05&theme=tokyonight&show_icons=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishas05&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishas05&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-# 🏆 GitHub Trophies
+<div align="center">
 
-<p align="center">
+## GitHub Trophies
+
 <img src="https://github-profile-trophy.vercel.app/?username=tanishas05&theme=algolia&no-frame=true&no-bg=true&margin-w=4"/>
-</p>
+
+</div>
 
 ---
 
-# 📈 Profile Views
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanishas05&label=Profile%20Views&color=blue&style=for-the-badge" />
-</p>
+## Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=tanishas05&label=Profile%20Views&color=blue&style=for-the-badge"/>
+
+</div>
 
 ---
 
-⭐ *Always learning and building in tech.*
+<div align="center">
+
+Always learning and building in tech.
+
+</div>
