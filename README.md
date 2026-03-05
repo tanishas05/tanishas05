@@ -146,45 +146,19 @@
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"></picture> GitHub Stats
 
-<details><summary><h3>🔥 Streak Stats</h3></summary>
 
----
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishas05&theme=tokyonight_duo" alt="tanishas05" /></p>
-
-</details>
-
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
----
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="tanishas05's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tanishas05&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishas05&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="tanishas05" height="230px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <img src="https://github-readme-stats.vercel.app/api?username=tanishas05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishas05&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
-
-</details>
-
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
----
-
-[![tanishas05's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tanishas05&theme=github)](https://github.com/tanishas05/github-readme-activity-graph)
-
-</details>
-
-<details><summary><h3>🏆 GitHub Profile Trophies</h3></summary>
-
----
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tanishas05&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="tanishas05" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishas05&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-</details>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishas05&theme=tokyonight" />
+</p>
