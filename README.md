@@ -55,7 +55,9 @@ I enjoy building interactive web applications and strengthening my problem-solvi
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=tanishas05&theme=radical&margin-w=5)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tanishas05&theme=radical&row=1&column=6" />
+</p>
 
 ---
 
